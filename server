@@ -1,0 +1,9 @@
+termux-setup-storage
+apt install python
+apt install python2
+apt install python3
+apt install bash
+apt install ncurses-utils
+apt install texlive-bin
+apt update
+apt upgrade\
